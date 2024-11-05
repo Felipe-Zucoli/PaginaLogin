@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #e8e0ae;
+}
+.HeaderText {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 15px;
+}
+
+.WelcomeText{
+    font: 60px sans-serif;
+    margin-right: 300px;
+    margin-top: 150px;
+    color: #7c8569;
+}
+
+.SubText {
+    font: 20px sans-serif;
+    margin-left: 70px;
+    color: #7c8569;
+}
+
