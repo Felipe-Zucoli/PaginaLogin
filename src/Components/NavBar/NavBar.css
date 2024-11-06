@@ -1,0 +1,18 @@
+.NavBar {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 0;
+    padding: 10px;
+    background-color: #afc7b9;
+    box-shadow:0px 1px black;
+}
+
+.NavBar a {
+    text-decoration: none;
+    padding: 8px;
+    background-color: #afc7b9;
+}
+
+.NavBar a:hover {
+    text-decoration:underline;
+}
